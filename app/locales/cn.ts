@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问码/key码不正确或为空，天卡点击[登录](/#/auth)页输入正确的访问密码，月卡或年卡点击[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      : "访问码或key码不正确，天卡点击[这里](/#/auth)输入访问码（sess-开头），月卡/季卡/年卡点击[这里](/#/settings)往下拉找到api key那行填入key码（sk-开头）。如遇到问题 截图遇到问题的图片给客服 客服看到可直接给你解决方法 售后微信：bujueone",
   },
   Auth: {
     Title: "需要密码",
