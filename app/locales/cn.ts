@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问码或key码不正确，（sess-开头）点击[这里](/#/auth)填入sess码，（sk-开头）点击[这里](/#/settings)往下拉找到api key那行填入sk码。如遇到问题，请截图发客服，客服看到会直接给你解决方法。售后微信：bujueone",
+      : "访问码不正确，[（sess-开头）点击这里](/#/auth)填入sess码整串。如遇到问题，请截图发客服，客服看到会直接给你解决方法。售后微信：bujueone",
   },
   Auth: {
     Title: "需要密码",
