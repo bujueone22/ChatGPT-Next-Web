@@ -12,7 +12,7 @@ const cn = {
   },
   Auth: {
     Title: "请输入兑换码",
-    Tips: "兑换码不要输入【兑换码：】，请在下方填入访问码",
+    Tips: "兑换码不要输入中文字【兑换码：】，请在下方填入访问码",
     Input: "在此处填写访问码",
     Confirm: "确认",
     Later: "稍后再说",
@@ -231,7 +231,7 @@ const cn = {
     },
     AccessCode: {
       Title: "兑换码",
-      SubTitle: "在右边输入兑换码兑换，不要输入【兑换码：】到里面",
+      SubTitle: "在右边输入兑换码兑换，不要输入中文字【兑换码：】到里面",
       Placeholder: "请输入访问密码",
     },
     Endpoint: {
