@@ -230,8 +230,8 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "访问密码",
-      SubTitle: "管理员已开启加密访问",
+      Title: "兑换码",
+      SubTitle: "在右边输入兑换码兑换，不要输入【兑换码：】到里面",
       Placeholder: "请输入访问密码",
     },
     Endpoint: {
