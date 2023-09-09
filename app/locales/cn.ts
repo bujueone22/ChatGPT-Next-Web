@@ -232,7 +232,7 @@ const cn = {
     AccessCode: {
       Title: "兑换码",
       SubTitle: "在右边输入兑换码兑换，不要输入中文字【兑换码：】到里面",
-      Placeholder: "请输入访问密码",
+      Placeholder: "请输入兑换码",
     },
     Endpoint: {
       Title: "接口地址",
