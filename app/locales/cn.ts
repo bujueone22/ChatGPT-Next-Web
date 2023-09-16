@@ -12,7 +12,7 @@ const cn = {
   },
   Auth: {
     Title: "请输入兑换码",
-    Tips: "输入码只要冒号后面的，不要把中文字也复制进去了",
+    Tips: "输入码只要冒号后面的，不要把中文字也复制进去了(区分大小写)",
     Input: "在此处填写兑换码",
     Confirm: "确认",
     Later: "稍后再说",
@@ -232,7 +232,7 @@ const cn = {
     AccessCode: {
       Title: "兑换码",
       SubTitle: "在右边输入兑换码兑换，不要输入中文字【兑换码：】到里面",
-      Placeholder: "请输入兑换码",
+      Placeholder: "请输入兑换码(区分大小写)",
     },
     Endpoint: {
       Title: "接口地址",
