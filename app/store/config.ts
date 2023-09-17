@@ -27,7 +27,7 @@ export const DEFAULT_CONFIG = {
   theme: Theme.Auto as Theme,
   tightBorder: !!getClientConfig()?.isApp,
   sendPreviewBubble: false,
-  enableAutoGenerateTitle: false,
+  enableAutoGenerateTitle: true,
   sidebarWidth: 300,
 
   disablePromptHint: false,
