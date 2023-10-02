@@ -217,7 +217,7 @@ const cn = {
     Token: {
       Title: "兑换码2",
       SubTitle: "在右边输入兑换码2兑换，输入了兑换码2就不要输入兑换码1",
-      Placeholder: "OpenAI API Key",
+      Placeholder: "请输入兑换码2(包含sk-)",
     },
 
     Usage: {
@@ -232,7 +232,7 @@ const cn = {
     AccessCode: {
       Title: "兑换码1",
       SubTitle: "在右边输入兑换码1兑换，输入了兑换码1就不要输入兑换码2",
-      Placeholder: "请输入兑换码(区分大小写)",
+      Placeholder: "请输入兑换码1(区分大小写)",
     },
     Endpoint: {
       Title: "接口地址",
