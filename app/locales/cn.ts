@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "[点击这里填入兑换码](/#/auth)。填入后会自动返回聊天窗口这个错误提示还会在的，发送文字进行提问即可。如遇到问题，请截图发客服，客服看到会直接给你解决方法。售后扣：406302360。微X被封了",
+      : "[点击这里填入兑换码1或2](/#/settings)。填入后左下角新的聊天再点直接开始进行提问即可。如遇到问题，请截图发客服，客服看到会直接给你解决方法。售后扣：406302360。AI交流群：87211680",
   },
   Auth: {
     Title: "请输入兑换码",
@@ -215,8 +215,8 @@ const cn = {
       SubTitle: "当未压缩的历史消息超过该值时，将进行压缩",
     },
     Token: {
-      Title: "API Key",
-      SubTitle: "使用自己的 Key 可绕过密码访问限制",
+      Title: "兑换码2",
+      SubTitle: "在右边输入兑换码2兑换，输入了兑换码2就不要输入兑换码1",
       Placeholder: "OpenAI API Key",
     },
 
@@ -230,8 +230,8 @@ const cn = {
       NoAccess: "输入 API Key 或访问密码查看余额",
     },
     AccessCode: {
-      Title: "兑换码",
-      SubTitle: "在右边输入兑换码兑换，不要输入中文字【兑换码：】到里面",
+      Title: "兑换码1",
+      SubTitle: "在右边输入兑换码1兑换，输入了兑换码1就不要输入兑换码2",
       Placeholder: "请输入兑换码(区分大小写)",
     },
     Endpoint: {
